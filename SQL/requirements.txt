@@ -6,4 +6,3 @@ pydantic
 dotenv
 joblib
 tensorflow
-tensorflow-gpu

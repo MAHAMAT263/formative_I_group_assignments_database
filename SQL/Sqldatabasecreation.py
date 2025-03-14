@@ -13,7 +13,7 @@ import uvicorn
 
 
 # Load the pre-trained model using joblib
-
+os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
 
 
 

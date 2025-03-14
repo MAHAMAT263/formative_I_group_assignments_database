@@ -32,7 +32,7 @@ DB_CONFIG = {
 
 
 # Load the trained model
-MODEL_PATH =student_model.h5"  # Ensure correct path
+MODEL_PATH = "student_model.h5"
 try:
     model = load_model(MODEL_PATH)
 except Exception as e:

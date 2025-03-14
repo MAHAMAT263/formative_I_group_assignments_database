@@ -20,7 +20,8 @@ We built a complete database system that brings together both SQL and MongoDB. T
 
 
 ## The live render link:
-link: https://formative-i-group-assignments-database.onrender.com/docs 
+link: [https://formative-i-group-assignments-database.onrender.com/docs ](https://formative-i-group-assignments-database.onrender.com)
+
 
 ## group memnbers
 

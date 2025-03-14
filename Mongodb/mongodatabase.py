@@ -32,7 +32,14 @@ except Exception as e:
   print(f"Gender collection insertion error: {e}") 
   
 # Insert Parental Education Data 
-education_levels = [ {"_id": 1, "EducationLevel": "High School"}, {"_id": 2, "EducationLevel": "Associate Degree"}, {"_id": 3, "EducationLevel": "Bachelor's Degree"}, {"_id": 4, "EducationLevel": "Master's Degree"}, {"_id": 5, "EducationLevel": "Doctorate"}, ] 
+education_levels = [ 
+  {"_id": 1, "EducationLevel": "High School"}, 
+  {"_id": 2, "EducationLevel": "Associate Degree"}, 
+  {"_id": 3, "EducationLevel": "Bachelor's Degree"}, 
+  {"_id": 4, "EducationLevel": "Master's Degree"}, 
+  {"_id": 5, "EducationLevel": "Doctorate"}, 
+]
+
 try: 
   education_collection.insert_many(education_levels, ordered=False) 
 except Exception as e: 

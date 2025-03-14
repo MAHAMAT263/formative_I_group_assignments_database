@@ -14,3 +14,17 @@ We built a complete database system that brings together both SQL and MongoDB. T
 2. The FastAPI backend enables CRUD operations for managing data.
 3. A script fetches the latest entry from the database and prepares it for ML predictions.
 4. The ML model processes the data and generates predictions.
+
+## Diagram
+-ERD Diagram to show the implemented Schema
+
+
+## The live render link:
+link: https://formative-i-group-assignments-database.onrender.com/docs 
+
+## group memnbers
+
+-MAHAMAT AHAMAT
+-Adediwura Emmanuel
+-Henriette Cyiza
+-Sabir Walid Abdurahman

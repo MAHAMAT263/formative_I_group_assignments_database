@@ -1,7 +1,7 @@
 # Database Design
 
 ## Project Overview
-We built a complete database system that brings together both SQL and MongoDB. The goal was to design a database, set up MongoDB collections, and created a FastAPI-powered backend for seamless CRUD operations. On top of that, we developed a script to fetch and prepare data for machine learning predictions.
+We built a complete database system that brings together both SQL and MongoDB. The goal was to design a database, set up MongoDB collections, and created a FastAPI-powered backend for seamless CRUD operations. On top of that, we developed a script to fetch and prepare data for machine learning predictions
 
 ## What We Did
 - Designed and Implemented a Database: Built a well-structured relational database with at least three tables, including primary/foreign keys, stored procedures, and triggers.
